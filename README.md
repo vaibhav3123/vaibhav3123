@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Bari</h1>
-<h3 align="center">My name is Vaibhav Bari, and I have recently completed my BCA program from MIT ACSC Pune. Building on this foundation, I am currently pursuing a Master’s in Computer Applications (MCA) to deepen my expertise and broaden my horizons in the field of technology.</h3>
+<h3 align="center">Aspiring Data scientist | UI designer | Frontend developer | Python | SQL | Microsoft-Excel</h3>
 
-- 🌱 I’m currently learning **Python,SQL,Java,Power BI**
+- 🌱 I’m currently learning **Python,SQL,Power BI,Tableau,Machine Learning**
 
 - 📫 How to reach me **bariv219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vaibhav-bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-bari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
