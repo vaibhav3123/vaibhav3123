@@ -9,7 +9,6 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 - 📈 I am skilled in Business Intelligence, building dashboards to track key business metrics.  
 - 📊 I have worked on projects like Student Performance Analysis, Diwali Sales Analysis, Mobile Sales Dashboard, and Ola Ride-Hailing Data Analysis. 
 - ✍️ Ask me about **UI Design**, **Frontend Development**, **EDA** or **Data Visualization**.  
-- 📫 How to reach me: [bariv219@gmail.com](mailto:bariv219@gmail.com).
 
 ---
 
@@ -19,6 +18,12 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 - Bachelor's in Computer Applications (BCA) – MIT ACSC, Alandi(2021-2024)
 
 ---
+
+# Click here to see my portfolio
+## 🌐 [Portfolio:](https://vaibhav-bari.netlify.app)
+
+---
+
 ## 💼 Tech Stack & Skills
 
 ### 📊 Data & Analytics  
