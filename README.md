@@ -1,14 +1,14 @@
-# Hi there 👋  
+## 🌟 About Me
 
-I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology, design, and development. I have experience in **UI/UX design**, **Frontend Development**, and I'm currently focusing on building expertise in **data analytics** and **machine learning**.  
+👋 I'm **Vaibhav Bari**, an aspiring **Data Scientist** with a passion for transforming raw data into meaningful insights.  
+With a background in **UI/UX design**, **frontend development**, and a strong foundation in **data analytics**, I combine creativity with analytical thinking to solve real-world problems.
 
----
+🎓 I'm currently pursuing my **Master’s in Computer Applications (MCA)** in **Data Science** from **MIT ADT University, Pune**
 
-### 🌟 About Me:  
-- 📊 I am skilled in Excel, SQL, Power BI, Tableau, and Exploratory Data Analysis (EDA)..  
-- 📈 I am skilled in Business Intelligence, building dashboards to track key business metrics.  
-- 📊 I have worked on projects like Student Performance Analysis, Diwali Sales Analysis, Mobile Sales Dashboard, and Ola Ride-Hailing Data Analysis. 
-- ✍️ Ask me about **UI Design**, **Frontend Development**, **EDA** or **Data Visualization**.  
+🧠 I have hands-on experience with tools and technologies like:  
+**Power BI**, **Excel**, **SQL**, **Tableau**, **Python**, **Machine Learning**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Figma** —  
+and I’ve applied these skills across various personal and academic projects.
+
 
 ---
 
@@ -16,11 +16,6 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 - Master’s in Computer Applications (MCA) in Data Science – MIT ADT University, Pune(2024-2026)
 
 - Bachelor's in Computer Applications (BCA) – MIT ACSC, Alandi(2021-2024)
-
----
-
-# Click here to see my portfolio
-## 🌐 [Portfolio:](https://vaibhav-bari.netlify.app)
 
 ---
 
@@ -48,6 +43,11 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+# Click below link to see my portfolio 👇
+🌐 [Portfolio:](https://vaibhav-bari.netlify.app)
 
 ---
 
