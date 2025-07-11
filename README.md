@@ -13,6 +13,11 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 
 ---
 
+🎓 Education
+Master’s in Computer Applications (MCA) in Data Science – MIT ADT University, Pune (Pursuing)
+Bachelor's in Computer Applications (BCA) – MIT ACSC, Alandi
+
+---
 ## 💼 Tech Stack & Skills
 
 ### 📊 Data & Analytics  
