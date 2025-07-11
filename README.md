@@ -40,7 +40,8 @@ I am **Vaibhav Bari**, an aspiring Data Scientist with a passion for technology,
 
 ---
 
-### 📚 Connect with Me:  
-- **LinkedIn:** [vaibhav-bari-915bb5202](https://www.linkedin.com/in/vaibhav-bari-915bb5202)  
+## 📫 Contact Me
 
----
+[![Email](https://img.shields.io/badge/Email-bariv219@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bariv219@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhav--bari--915bb5202-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-bari-915bb5202/)
+
